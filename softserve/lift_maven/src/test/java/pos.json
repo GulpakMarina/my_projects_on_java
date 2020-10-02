@@ -1,0 +1,44 @@
+[{"lifts": [{
+				"id": 1,
+				"fromFloor": 1,
+				"toFloor": 8},
+			{
+				"id": 2,
+				"fromFloor": 2,
+				"toFloor": 7
+			},
+			{
+				"id": 3,
+				"fromFloor": 15,
+				"toFloor": 18
+			},
+			{
+				"id": 4,
+				"fromFloor": 6,
+				"toFloor": 8
+			}
+		],
+		
+		"human":{"name":"vasya","currentFloor":7,"direction":"DOWN"},
+		"extended":2
+},
+	{"lifts": [{"id": 1,"fromFloor": 1,"toFloor":8},
+		      {"id": 2,"fromFloor": 2,"toFloor":7},
+			  {"id": 3,"fromFloor": 15,"toFloor":18},
+			  {"id": 4,"fromFloor": 6,"toFloor": 8},
+			  {"id": 5,"fromFloor": 20,"toFloor": 1},
+			  {"id": 6,"fromFloor": 19,"toFloor": 6}],
+	"human":{"name":"vasya","currentFloor":7,"direction":"DOWN"},
+	"extended":6
+	},
+	{"lifts": [{"id": 1,"fromFloor": 12,"toFloor":6},
+		      {"id": 2,"fromFloor": 8,"toFloor":7},
+			  {"id": 3,"fromFloor": 6,"toFloor":8}],
+	"human":{"name":"vasya","currentFloor":7,"direction":"DOWN"},
+	"extended":1
+	},
+{"lifts": [{"id": 1,"fromFloor": 4,"toFloor":1},
+		      {"id": 2,"fromFloor": 3,"toFloor":4}],
+	"human":{"name":"vasya","currentFloor":2,"direction":"UP"},
+	"extended":2
+	}]

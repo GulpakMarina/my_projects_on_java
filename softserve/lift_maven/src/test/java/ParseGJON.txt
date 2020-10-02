@@ -1,0 +1,41 @@
+import classes.Human;
+import classes.Lift;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
+import java.io.*;
+import java.util.List;
+
+public class ParseGJON {
+
+    public static DataFromGJON[] parseJson(File fileName) {
+        DataFromGJON[] dataFromGJONS=null;
+        try(FileReader reader=new FileReader(fileName)){
+            dataFromGJONS = new Gson().fromJson(reader,DataFromGJON[].class);
+        }catch (IOException e){
+            e.printStackTrace();
+        }
+            return dataFromGJONS;
+    }
+
+
+   /* public static void toGson()  {
+        Lift[] lifts=new Lift[]{new Lift(1, 12, 6),
+                new Lift(2, 8, 7),
+                new Lift(3, 6, 8)};
+        Human human= new Human("vasya",7,Human.Direction.DOWN);
+        int ex=1;
+        DataFromGJON dataFromGJON=new DataFromGJON();
+        dataFromGJON.setHuman(human);
+        dataFromGJON.setLifts(lifts);
+        dataFromGJON.setExtended(ex);
+        DataFromGJON[] dataFromGJONS=new DataFromGJON[]{dataFromGJON,dataFromGJON};
+        Gson gson=new Gson();
+        try(FileWriter writer=new FileWriter("D:/moe/my_projects_on_java/univer/lift_maven_n/src/test/java/dataFromGJONNEW.json")) {
+            gson.toJson(dataFromGJONS, writer);
+        }
+        catch (IOException e){
+            e.printStackTrace();
+        }
+    }*/
+}
