@@ -10,7 +10,7 @@ import static actions.UserRepository.*;
 
 public class PostgresConnection {
     private static final String LOGIN = "postgres";
-    private static final String PASSWORD = "lenovo13";
+    private static final String PASSWORD = ///password
     private static final String URL = "jdbc:postgresql://localhost:5432/Advertisements";
 
     public static void main(String[] args)  {

@@ -3,7 +3,7 @@ target/
 .idea/
 out/
 college/
-
+password.txt
 # Log file
 *.log
 
