@@ -1,0 +1,2 @@
+id: 1|| title: title1|| whereToBuy: xs|| prise: 2.0|| caloriesPer100: 0|| proteinsPer100: 1|| fatsPer100: 1|| carbohydratesPer100: 1|| dateCreate: 2020-11-11
+id: 2|| title: title2|| whereToBuy: xs|| prise: 2.0|| caloriesPer100: 0|| proteinsPer100: 2|| fatsPer100: 1|| carbohydratesPer100: 1|| dateCreate: 2020-11-12

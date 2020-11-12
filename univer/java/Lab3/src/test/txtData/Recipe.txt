@@ -1,0 +1,2 @@
+id: ID1|| title: title1|| weight: 123.0|| cuisineId: IC1|| describe: QWERTY
+id: ID2|| title: title2|| weight: 3.0|| cuisineId: IC2|| describe: QWERTY

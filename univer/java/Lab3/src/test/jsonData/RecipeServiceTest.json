@@ -1,0 +1,9 @@
+[[{"id":"fc35dd5c-ab08-4e25-84ff-f34ed34ac35a", "title":"pie","weight":200.0},
+  {"id":"a622937d-a893-48bd-98a3-1e48b1dcf5b5","title":"vareniki","weight":100.0},
+  {"id":"a629463a-71e4-4e46-9ca4-cb84371f9c47","title":"galushki","weight":500.0}],
+  [{"id":"c3db6f6b-594b-4732-b31c-43fc81629b35","title":"galushki","weight":500.0},
+    {"id":"1d689ad1-ce18-40cd-b7bb-077d37984bae","title":"pie","weight":200.0},
+    {"id":"63384828-b68b-4f05-8e2f-5dec3e2098e0","title":"vareniki","weight":100.0}],
+  [{"id":"ab4daa44-78d8-4006-a531-3235f6246a34","title":"vareniki","weight":100.0},
+    {"id":"c167fa92-2133-4cb5-8ead-b280b4605418","title":"pie","weight":200.0},
+    {"id":"ad3d9e52-1ad0-404e-97f2-2be624d463b8","title":"galushki","weight":500.0}]]

@@ -1,0 +1,12 @@
+[[{"id":"bd63a882-dbd7-47eb-ad5f-486dc661f84a","title":"flour","prise":34.25,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":11,"day":3}},
+  {"id":"e02cd394-8bf6-4396-a502-447fbce7c7ee","title":"eggs","prise":12.5,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":10,"day":4}},
+  {"id":"7c8cafbf-aa1f-46fe-8a81-30e2555b1eea","title":"cucumber","prise":20.3,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":10,"day":24}},
+  {"id":"634d40ef-1fd2-4e36-aaa3-5d5231906cdc","title":"garlic","prise":40.0,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":11,"day":5}}],
+  [{"id":"063b9b92-3e42-48ff-a9be-37ea5a55a597","title":"eggs","prise":12.5,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":10,"day":4}},
+    {"id":"56501759-a1ff-4502-93eb-e1ce43916206","title":"cucumber","prise":20.3,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":10,"day":24}},
+    {"id":"89371898-0750-42d6-8ba9-ec6a7c5a6a44","title":"flour","prise":34.25,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":11,"day":3}},
+    {"id":"71bf8407-d20f-4aef-8191-c823e98c356a","title":"garlic","prise":40.0,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":11,"day":5}}],
+  [{"id":"a902eb84-e116-40c9-91ac-9d693df05a39","title":"cucumber","prise":20.3,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":10,"day":24}},
+    {"id":"e5f23c12-ab99-4402-afc1-60f2ac11ce94","title":"eggs","prise":12.5,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":10,"day":4}},
+    {"id":"1345f729-b8a1-4ab3-9aaa-f39d01f00b58","title":"flour","prise":34.25,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":11,"day":3}},
+    {"id":"7e3dac5e-70c7-40b9-b3db-84d2becc21df","title":"garlic","prise":40.0,"caloriesPer100":0,"proteinsPer100":0,"fatsPer100":0,"carbohydratesPer100":0,"dateCreate":{"year":2020,"month":11,"day":5}}]]
