@@ -1,0 +1,2 @@
+id: ID1|| ingredientId: iid1|| amountOfIngredient: 123.0|| value: GLASS|| recipeId: Rid1
+id: ID2|| ingredientId: iid2|| amountOfIngredient: 4.0|| value: GRAM|| recipeId: Rid2

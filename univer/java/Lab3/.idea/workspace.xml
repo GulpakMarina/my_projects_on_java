@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fc6ab3c-d7b3-492d-b8be-308938d2afca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="1iQDp7ZVZBWZT35YrR8w8wlYtvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.43678162" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="service" />
+      <recent name="model" />
+      <recent name="serialize" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="recipe" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\moe\my_projects_on_java\univer\java\Lab3\src\main\java\utility" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\moe\my_projects_on_java\univer\java\Lab3\src\test\jsonData" />
+      <recent name="D:\moe\my_projects_on_java\univer\java\Lab3\src\test\txtData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RecipeServiceTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompositionOfRecipeValid" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="validation" />
+      <option name="MAIN_CLASS_NAME" value="validation.CompositionOfRecipeValid" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompositionOfRecipeValid.negativeBuilder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="validation" />
+      <option name="MAIN_CLASS_NAME" value="validation.CompositionOfRecipeValid" />
+      <option name="METHOD_NAME" value="negativeBuilder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseTXTTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="serialize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="serialize" />
+      <option name="MAIN_CLASS_NAME" value="serialize.ParseTXTTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseXMLTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="serialize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="serialize" />
+      <option name="MAIN_CLASS_NAME" value="serialize.ParseXMLTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeServiceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.RecipeServiceTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RecipeServiceTest" />
+        <item itemvalue="TestNG.CompositionOfRecipeValid.negativeBuilder" />
+        <item itemvalue="TestNG.CompositionOfRecipeValid" />
+        <item itemvalue="TestNG.ParseXMLTest" />
+        <item itemvalue="TestNG.ParseTXTTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fc6ab3c-d7b3-492d-b8be-308938d2afca" name="Default Changelist" comment="" />
+      <created>1601831104446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601831104446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="9" width="816" height="729" key="#Intentions" timestamp="1603019124267">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="9" width="816" height="729" key="#Intentions/0.0.1366.738@0.0.1366.738" timestamp="1603019124267" />
+    <state x="137" y="24" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601834838217">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1601834838217" />
+    <state x="100" y="100" width="1166" height="538" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605085126409">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="100" y="100" width="1166" height="538" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.738@0.0.1366.738" timestamp="1605085126409" />
+    <state x="488" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1605091686899">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1605091686899" />
+    <state x="420" y="198" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1604389332353">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="420" y="198" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1604389332353" />
+    <state x="388" y="121" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1602686658531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="388" y="121" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1366.738@0.0.1366.738" timestamp="1602686658531" />
+    <state x="311" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605082405581">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="311" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1605082405581" />
+    <state x="466" y="238" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604956900509">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="466" y="238" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1604956900509" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604915781002">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1604915781002" />
+    <state x="415" y="144" width="948" height="594" key="#xdebugger.evaluate" timestamp="1603285287203">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="415" y="144" width="948" height="594" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1603285287203" />
+    <state x="441" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602685695075">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="441" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1602685695075" />
+    <state width="1041" height="466" key="DebuggerActiveHint" timestamp="1602678962472">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1041" height="466" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1602678962472" />
+    <state x="442" y="110" key="FileChooserDialogImpl" timestamp="1604998805910">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="442" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604998805910" />
+    <state width="1367" height="195" key="GridCell.Tab.0.bottom" timestamp="1605092456413">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="195" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605092456413" />
+    <state width="1367" height="195" key="GridCell.Tab.0.center" timestamp="1605092456412">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="195" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605092456412" />
+    <state width="1367" height="195" key="GridCell.Tab.0.left" timestamp="1605092456412">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="195" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605092456412" />
+    <state width="1367" height="195" key="GridCell.Tab.0.right" timestamp="1605092456412">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="195" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605092456412" />
+    <state width="1350" height="212" key="GridCell.Tab.1.bottom" timestamp="1603292548027">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1350" height="212" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603292548027" />
+    <state width="1350" height="212" key="GridCell.Tab.1.center" timestamp="1603292548026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1350" height="212" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1603292548026" />
+    <state width="1350" height="212" key="GridCell.Tab.1.left" timestamp="1603292548026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1350" height="212" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1603292548026" />
+    <state width="1350" height="212" key="GridCell.Tab.1.right" timestamp="1603292548026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1350" height="212" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1603292548026" />
+    <state x="38" y="24" width="1247" height="690" key="Maven.ArtifactSearchDialog" timestamp="1604914009954">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="38" y="24" width="1247" height="690" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1604914009954" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1601835462332">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601835462332" />
+    <state width="691" height="377" key="XDebugger.FullValuePopup" timestamp="1603285284603">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="691" height="377" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1603285284603" />
+    <state x="454" y="106" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605088633653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="454" y="106" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1605088633653" />
+    <state x="274" y="0" key="new project wizard" timestamp="1603140661174">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="274" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1603140661174" />
+    <state x="478" y="116" key="refactoring.ChangeSignatureDialog" timestamp="1604952797485">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="478" y="116" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1604952797485" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1602687244699">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1602687244699" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1603286385481">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1603286385481" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/serialize/ParseJSON.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/serialize/ParseJSONTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/serialize/ParseTXT.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="matcher.group(2)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab3$TryingMain.ic" NAME="TryingMain Coverage Results" MODIFIED="1602620060132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>serialize.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3$ParseXMLTest.ic" NAME="ParseXMLTest Coverage Results" MODIFIED="1603292291182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>serialize.*</FILTER>
+    </SUITE>
+  </component>
+</project>
