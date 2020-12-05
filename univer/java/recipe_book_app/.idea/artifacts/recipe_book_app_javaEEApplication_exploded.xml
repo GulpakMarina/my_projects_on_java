@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="recipe_book_app:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/recipe_book_app_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="recipe_book_app/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="lib">
+        <element id="archive" name="recipe_book_app.main.jar">
+          <element id="module-output" name="recipe_book_app.main" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
